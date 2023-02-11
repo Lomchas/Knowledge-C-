@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\bin\Debug\Tarea_ordenador(Herramientas II).exe.config
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\bin\Debug\Tarea_ordenador(Herramientas II).exe
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\bin\Debug\Tarea_ordenador(Herramientas II).pdb
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\obj\Debug\Tarea_ordenador(Herramientas II).csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\obj\Debug\Tarea_ordenador(Herramientas II).csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\obj\Debug\Tarea_ordenador(Herramientas II).csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\obj\Debug\Tarea_ordenador(Herramientas II).exe
+C:\Users\danie\source\repos\Tarea_ordenador(Herramientas II)\obj\Debug\Tarea_ordenador(Herramientas II).pdb
